@@ -7,7 +7,10 @@ export const NavBAr=()=>{
             <h3>About Us</h3>
             <h3>Contact us</h3>
           </div>
-          <div className=" flex justify-center items-center w-[30%] h-full  text-white text-4xl font-semibold">LOGIN</div>
+          <div className=" flex justify-center items-center w-[10%] h-full ">
+            <div className=" flex justify-center items-center w-full h-[90%] border border-cyan-300 text-white text-xl font-semibold rounded-xl">LOGIN
+            </div>
+          </div>
         </div>
     )
 }
